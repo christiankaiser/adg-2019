@@ -1,0 +1,349 @@
+id_reponse	langue	participation_journees	source_journal	source_radio	source_internet	source_amis	visite_samedi	visite_dimanche	accueil	pays	canton	moyen_transport	temps_pour_venir	accomp_seul	accomp_conjoin	accomp_famille	accomp_amis	offre_activites_loisirs	age	sexe
+1	fr	Y	Y	Y	Y	N	Y	Y	bien			auto	20	Y	N	N	N	bien	42	H
+2	fr	Y	Y	N	N	N	Y	N	excellent	CH	SZ	moto	20	N	N	Y	N	moyen	23	F
+3	de	N	N	N	N	N	N	N		CH	TI			N	Y	N	N	moyen	34	H
+4	fr	Y	N	N	Y	N	Y	N	excellent			tp	2	N	Y	Y	Y	super	29	F
+5	fr	Y	N	N	Y	N	Y	N	excellent	CH		tp	120	N	N	Y	N	super	42	F
+6	fr	Y	N	N	Y	N	Y	N	excellent	CH		tp	15	N	Y	N	N	bien	27	F
+7	fr	Y	N	N	N	N	Y	Y	excellent	CH	VD	tp	10	N	N	N	Y	bien	18	H
+8	fr	Y	N	N	N	Y	Y	N	bien	CH	VD	tp	15	N	Y	Y	N	mauvais	25	H
+9	fr	Y	N	N	Y	Y	Y	N	excellent	CH	AG	auto	2	N	Y	N	Y	bien	57	H
+10	fr	Y	N	N	N	Y	Y	N	excellent	CH	VD	tp	40	N	Y	N	Y	super	52	H
+11	fr	Y	N	N	N	Y	Y	N	excellent	CH	VD	tp	45	N	Y	N	N	bien	50	H
+12	de	Y	N	N	N	Y	Y	Y	bien	CH	ZH	tp	240	N	Y	N	N	super	74	H
+13	de	Y	N	N	N	Y	Y	Y	excellent	CH	ZH	tp	240	N	Y	N	Y	super	34	F
+14	fr	N	N	N	N	N	N	N		CH	VD			Y	N	N	N		48	H
+15	de	Y	N	N	N	Y	N	Y	bien	CH	AG	tp	90	N	Y	N	N	bien	28	H
+16	fr	Y	N	N	Y	N	Y	Y	bien			tp	60	N	Y	Y	Y	super	28	F
+17	de	N	N	N	N	N	N	N		D				Y	N	N	N	bien	64	H
+18	de	Y	N	N	Y	N	N	Y	bien	D		tp	260	N	Y	N	N	bien	41	H
+19	de	Y	N	N	N	N	Y	N	bien	N		tp	15	N	N	N	Y		26	F
+20	fr	Y	N	N	N	Y	Y	N	excellent	CH	VD	tp	15	N	Y	Y	Y	super	26	F
+21	fr	Y	N	N	Y	N	N	Y	excellent	CH	VD	auto	10	N	N	Y	N	bien	45	H
+22	fr	Y	N	N	N	Y	N	Y	excellent	CH	VD	auto	6	N	Y	N	N	bien	32	H
+23	fr	Y	N	N	N	Y	Y	N	bien	CH	VD	tp	50	N	N	N	Y	bien	33	H
+24	fr	Y	N	N	Y	N	N	Y	excellent	CH	UR	tp	240	N	N	N	Y	bien	33	H
+25	fr	Y	N	N	Y	Y	N	Y	excellent	CH	VD	tp	40	N	Y	Y	Y	bien	35	H
+26	fr	N	N	N	N	N	N	N		CH	VD			N	Y	N	N	bien	50	F
+27	fr	Y	Y	N	Y	Y	N	Y	excellent			auto	20	N	Y	N	N	bien	54	F
+28	fr	Y	N	N	Y	N	N	Y	bien			auto	15	N	Y	N	Y	mauvais	27	F
+29	fr	N	N	N	N	N	N	N		CH	VD			N	Y	N	N	moyen	54	H
+30	fr	Y	N	N	Y	N	Y	N	bien	CH	VD	tp	50	N	Y	N	N	moyen	36	H
+31	fr	Y	N	Y	Y	N	Y	N	excellent	CH	VD	auto	15	Y	N	N	N	bien	37	H
+32	de	Y	N	N	Y	N	Y	Y	bien	CH	SO	auto	90	N	N	Y	Y	bien	48	H
+33	fr	Y	N	N	Y	N	Y	Y	excellent	CH	VD	tp	10	N	Y	N	Y	bien	45	F
+34	fr	Y	N	N	Y	N	Y	N	bien	CH	VD	tp	100	N	N	N	Y	bien	48	F
+35	fr	Y	Y	N	N	N	Y	Y	bien	CH	VD	tp	20	N	N	N	Y	moyen	48	F
+36	fr	Y	N	N	Y	N	N	Y	excellent	CH	VD	tp	40	N	Y	N	Y	bien	38	H
+37	fr	Y	N	N	N	Y	Y	Y		CH	FR	auto	15	N	Y	N	N	bien	39	H
+38	fr	Y	N	N	Y	N	Y	Y	excellent	CH	VD	auto	5	N	N	N	Y	bien	39	F
+39	fr	Y	Y	N	N	N	Y	Y	excellent			tp	30	N	N	N	Y	bien	73	F
+40	fr	Y	N	N	Y	Y	N	Y	bien	CH	VD	tp	45	N	N	Y	N	bien	34	H
+41	fr	Y	N	N	Y	N	Y	Y	excellent	CH	VD	auto	20	N	Y	N	N	bien	29	H
+42	fr	Y	N	N	N	Y	Y	N	excellent	CH		a_pied	10	N	N	Y	N	super	30	F
+43	fr	Y	N	N	Y	N	Y	N	excellent	CH	VD	tp	20	N	N	N	Y	bien	44	H
+44	fr	Y	N	N	Y	N	Y	Y	bien	CH	VS	tp	30	Y	N	N	N	bien	26	F
+45	fr	Y	N	Y	N	N	Y	Y	bien	CH	VD	auto	25	N	Y	N	N	super	42	F
+46	fr	Y	Y	Y	Y	Y	N	Y	excellent	CH	VD	a_pied	10	N	Y	N	Y	bien	39	H
+47	fr	Y	N	N	Y	N	N	Y	excellent	CH	VD	tp	15	N	Y	N	Y		28	H
+48	fr	Y	N	N	Y	N	N	Y	bien			tp	20	N	Y	N	N	mauvais	34	H
+49	fr	Y	Y	N	Y	N	Y	Y	excellent	CH		tp	40	N	N	Y	N	moyen	36	H
+50	fr	Y	N	N	N	N	N	Y	bien	CH	VD	auto	10	N	Y	N	N	moyen	53	H
+51	fr	Y	N	N	N	Y	N	Y	excellent			auto	30	N	Y	N	N	super	37	H
+52	fr	Y	N	N	Y	N	Y	Y	excellent	CH	VD	tp	20	N	N	Y	N	bien	49	F
+53	fr	Y	Y	N	Y	N	Y	Y	excellent	CH		tp	20	N	N	N	Y	bien	49	H
+54	fr	N	N	N	N	N	N	N		CH	VD			N	N	Y	N	moyen		H
+55	fr	Y	N	N	N	Y	Y	N	bien	CH	VD	tp	40	N	N	Y	Y	bien	23	H
+56	fr	Y	N	N	Y	N	Y	N	excellent	CH	VD	auto	25	N	Y	N	N	bien	40	F
+57	fr	Y	N	N	N	N	Y	N	excellent	CH		a_pied	2	N	N	Y	N	mauvais	43	F
+58	fr	Y	N	N	Y	N	Y	N	moyen	CH	FR	auto	20	N	N	Y	N	super	60	F
+59	fr	Y	N	N	Y	N	N	Y	bien	CH	TI	tp	40	N	Y	N	Y	bien	31	F
+60	fr	Y	N	N	Y	N	Y	N	bien	CH	VS	tp	30	Y	N	N	N	moyen	24	F
+61	fr	Y	N	N	N	Y	N	Y	bien	CH	VD	tp	45	N	Y	Y	N	super	25	H
+62	fr	Y	N	N	Y	Y	Y	N	excellent	CH	VD	tp	60	N	N	N	Y	bien	58	H
+63	fr	Y	N	N	Y	Y	Y	N	excellent	CH	VD	auto	10	N	Y	N	Y	super	73	H
+64	fr	Y	N	N	Y	N	Y	Y	excellent	CH		auto	30	N	Y	N	N	bien	40	F
+65	fr	Y	N	N	Y	N	Y	N	excellent	CH	VD	a_pied	2	N	N	Y	Y	bien	34	H
+66	fr	Y	N	N	Y	N	Y	Y	excellent	CH	VD	tp	10	N	N	N	Y	super	63	F
+67	fr	Y	N	N	Y	N	N	Y	excellent	CH		velo	30	N	N	Y	N	super	33	H
+68	fr	Y	N	N	Y	N	Y	Y	bien	CH	VD	a_pied	15	N	N	Y	N	mauvais	35	H
+69	fr	Y	N	N	N	Y	Y	N	excellent	CH	BE	auto	95	N	N	N	Y	bien	66	F
+70	fr	Y	Y	N	Y	N	Y	N	bien	CH		tp	15	N	Y	N	Y	bien	50	F
+71	fr	Y	N	N	N	N	Y	N	excellent	CH	AG	auto	120	N	Y	N	N	bien	58	F
+72	fr	Y	N	N	Y	Y	Y	N	excellent	CH	VD	auto	15	N	N	N	Y	super	60	F
+73	fr	Y	Y	N	Y	N	Y	Y	excellent	CH	VD	tp	60	N	N	Y	N	bien	48	H
+74	fr	Y	N	N	Y	N	Y	N	excellent	CH	VD	auto	10	N	N	Y	Y	bien	45	F
+75	fr	Y	N	N	Y	N	N	Y	excellent	CH	VD	tp	30	N	N	Y	Y	super	60	H
+76	fr	Y	N	N	N	Y	N	Y	bien			tp	15	N	N	N	Y	bien	30	F
+77	fr	Y	N	N	N	Y	Y	Y	excellent	CH	VS	a_pied	15	N	N	N	Y	bien	46	H
+78	de	Y	N	N	N	Y	Y	Y	bien	CH	ZH	tp	180	N	N	Y	Y	bien	31	H
+79	fr	Y	N	N	N	Y	N	Y	excellent	CH	VD	velo	60	N	N	Y	N	bien	31	F
+80	fr	Y	N	N	Y	N	N	Y	bien	CH	VD	tp	45	N	Y	Y	Y	mauvais	27	F
+81	fr	Y	N	N	Y	Y	Y	Y	excellent	CH	VD	tp	30	N	Y	N	N	bien	27	H
+82	fr	Y	N	N	N	Y	Y	Y	excellent	CH	VD	tp	30	N	N	N	Y	moyen		F
+83	fr	N	N	N	N	N	N	N		CH	VD			N	Y	N	N	bien	52	H
+84	fr	Y	Y	N	Y	N	Y	Y	bien	CH	VD	tp	13	N	Y	N	N	bien	45	F
+85	fr	Y	N	N	N	Y	Y	Y	bien	CH	VD	tp	70	N	N	N	Y	bien	47	F
+86	fr	Y	N	N	N	Y	Y	Y	bien			tp	30	N	Y	N	Y	super	69	H
+87	fr	Y	N	N	N	Y	N	Y	bien	CH	VD	a_pied	10	N	N	Y	Y	bien	45	F
+88	fr	Y	N	N	Y	N	N	Y	excellent	F		auto	30	N	Y	N	N	super	45	H
+89	fr	Y	N	N	Y	Y	Y	Y	excellent	CH	VD	tp	30	N	N	Y	Y	bien	31	H
+90	de	Y	N	N	Y	N	Y	Y	bien	CH	AG	auto	125	N	Y	N	N	bien	71	F
+91	fr	Y	N	N	N	Y	N	Y	excellent	CH	VD	a_pied	10	N	Y	N	Y	bien	27	F
+92	fr	Y	N	N	Y	N	Y	Y	excellent	CH	VD	tp	30	N	Y	N	N	super	49	H
+93	fr	Y	N	N	Y	N	Y	Y	excellent	CH	VD	a_pied	180	N	N	Y	N	moyen	46	F
+94	fr	Y	Y	N	Y	Y	Y	Y	excellent	CH	VD	tp	30	N	Y	N	N	bien	62	H
+95	fr	Y	N	N	N	Y	Y	Y	excellent	CH	VD	tp	30	N	Y	N	Y	super	38	F
+96	fr	Y	N	N	N	Y	Y	Y	excellent			auto	30	N	N	N	Y	bien	45	H
+97	fr	N	N	N	N	N	N	N		CH	VD			N	N	Y	Y	bien	40	H
+98	fr	N	N	N	N	N	N	N		CH	VD			N	Y	Y	N	bien	38	F
+99	fr	Y	N	N	Y	N	Y	N	excellent	CH	GE	tp	1	N	Y	N	N	bien	56	H
+100	fr	Y	N	N	Y	N	Y	Y	excellent	CH	VD	tp	45	N	N	Y	N	super	29	H
+101	fr	Y	N	N	N	Y	N	Y	bien			auto	20	N	N	N	Y	bien	26	F
+102	fr	Y	Y	N	N	N	Y	N	excellent	CH	FR	auto	1	N	Y	N	N	super	42	F
+103	fr	N	N	N	N	N	N	N		CH	VD			Y	N	N	N	bien	30	H
+104	fr	N	N	N	N	N	N	N		CH	VS			N	N	Y	Y	bien	53	H
+105	fr	N	N	N	N	N	N	N		CH	VD			N	Y	N	N	bien	28	H
+106	fr	N	N	N	N	N	N	N		CH	VD			N	N	Y	N	bien	36	F
+107	fr	Y	N	N	Y	N	Y	N	bien	CH	FR	auto	60	N	N	N	Y	bien	54	F
+108	fr	Y	N	N	Y	N	Y	N	excellent			tp	45	N	Y	N	Y	bien	21	F
+109	fr	N	N	N	N	N	N	N		CH	NE			N	N	Y	N	bien	39	H
+110	fr	N	N	N	N	N	N	N		CH	GE			N	Y	N	N	bien	67	H
+111	fr	Y	N	N	Y	N	Y	N	excellent			auto	45	N	Y	N	N	super	50	F
+112	fr	N	N	N	N	N	N	N		CH	VD			N	N	Y	N	super	44	F
+113	fr	N	N	N	N	N	N	N		CH	VD			N	Y	N	N	bien	24	F
+114	fr	Y	N	N	N	N	Y	N	bien	CH	VD	auto	30	N	N	Y	N	bien	34	F
+115	fr	N	N	N	N	N	N	N		CH	FR			N	N	Y	Y	bien	39	H
+116	fr	N	N	N	N	N	N	N		CH	GE			N	Y	N	Y	bien	48	F
+117	fr	N	N	N	N	N	N	N		CH	VD			N	N	Y	N	bien	42	F
+118	fr	N	N	N	N	N	N	N		CH	VD			N	N	Y	Y	super	40	F
+119	fr	N	N	N	N	N	N	N		CH	VS			N	N	N	Y	super		N/A
+120	fr	N	N	N	N	N	N	N		CH	VD			N	N	N	Y	bien	33	H
+121	fr	N	N	N	N	N	N	N		CH	FR			N	N	Y	Y	bien	51	F
+122	fr	N	N	N	N	N	N	N		CH	FR			N	Y	Y	N	bien		F
+123	fr	Y	N	N	Y	N	Y	Y	excellent	CH	VD	tp	20	Y	N	N	N	bien	31	F
+124	fr	N	N	N	N	N	N	N		CH	VD			Y	N	N	N	bien	37	F
+125	fr	N	N	N	N	N	N	N		CH	VD			N	Y	N	N	mauvais	27	F
+126	fr	N	N	N	N	N	N	N		CH	VD			Y	N	N	N		60	F
+127	fr	N	N	N	N	N	N	N		CH	NE			N	N	N	Y	super	67	F
+128	fr	N	N	N	N	N	N	N		CH	VD			N	N	N	Y		38	F
+129	fr	Y	N	N	Y	Y	N	Y	excellent	CH	VD	tp	10	N	N	N	Y	super	31	H
+130	fr	N	N	N	N	N	N	N		CH	VS			N	N	N	Y	bien	50	F
+131	fr	N	N	N	N	N	N	N		CH	TI			N	Y	N	N	bien	47	F
+132	fr	Y	N	N	N	Y	N	Y	excellent	CH	VD	auto	30	N	N	Y	N	bien	36	F
+133	fr	Y	N	N	Y	N	Y	N	bien	CH	TI	auto	180	N	N	Y	N	bien	39	F
+134	fr	N	N	N	N	N	N	N		CH	GE			N	Y	Y	N	bien	38	H
+135	fr	N	N	N	N	N	N	N		CH	FR			N	N	N	Y	bien	22	H
+136	fr	N	N	N	N	N	N	N		CH	FR			Y	N	N	N	super	35	H
+137	fr	Y	N	N	N	Y	Y	Y	bien	CH	VD	a_pied	5	N	N	Y	Y	bien	44	H
+138	fr	N	N	N	N	N	N	N		CH	JU			N	Y	Y	N	bien	28	F
+139	fr	N	N	N	N	N	N	N		CH	VD			N	Y	Y	Y	bien	31	F
+140	fr	Y	Y	N	N	N	N	Y	excellent	CH	VD	auto	15	N	N	Y	N	super		F
+141	fr	N	N	N	N	N	N	N		CH	JU			N	N	Y	N	bien	58	F
+142	fr	N	N	N	N	N	N	N		CH	VD			N	N	N	Y	super	44	F
+143	fr	N	N	N	N	N	N	N		CH	VD			N	N	Y	Y	bien	22	F
+144	fr	Y	Y	N	N	N	Y	N	excellent	CH	AI	auto	300	Y	N	N	N		51	H
+145	fr	Y	N	N	Y	N	Y	Y	excellent			tp	30	N	Y	N	N	super	64	H
+146	fr	Y	Y	N	Y	N	Y	Y	excellent			tp	45	N	Y	N	N	super	57	F
+147	fr	Y	N	N	Y	Y	Y	Y	excellent	CH	VD	a_pied	15	N	N	N	Y	super	28	F
+148	fr	N	N	N	N	N	N	N		CH	FR			N	N	Y	N	bien	47	H
+149	fr	Y	N	N	Y	N	Y	N	excellent	CH		tp	20	N	Y	Y	Y	bien	46	H
+150	fr	Y	N	N	N	Y	Y	Y	excellent	F		tp	90	N	Y	N	N	bien	30	F
+151	fr	N	N	N	N	N	N	N		CH	VS			N	Y	N	N	bien	46	F
+152	fr	Y	N	N	Y	N	N	Y	bien	CH	FR	auto	25	N	Y	Y	Y	bien	32	F
+153	fr	Y	N	N	N	Y	N	Y	excellent	CH	VD	tp	30	N	N	Y	N		34	F
+154	fr	Y	N	N	Y	Y	Y	Y	excellent	CH		tp	20	N	Y	Y	Y	super	25	F
+155	fr	N	N	N	N	N	N	N		CH	VD			N	N	Y	N	bien	47	H
+156	fr	N	N	N	N	N	N	N		CH	GE			Y	N	N	N	bien	40	F
+157	fr	N	N	N	N	N	N	N		CH	VD			Y	N	N	N	moyen	60	H
+158	fr	N	N	N	N	N	N	N		CH	VD			N	N	Y	N	mauvais	36	H
+159	fr	N	N	N	N	N	N	N		CH	VD			N	Y	N	N	bien	43	H
+160	fr	N	N	N	N	N	N	N		CH	GE			N	N	N	Y	moyen	62	H
+161	fr	Y	N	N	Y	N	N	Y	bien	CH	GE	auto	90	N	N	Y	N	bien	41	H
+162	fr	Y	N	N	Y	N	N	Y	excellent	CH	VD	tp	40	N	N	Y	Y	bien	38	F
+163	fr	N	N	N	N	N	N	N		CH	GE			N	Y	N	N	bien		H
+164	fr	Y	N	N	N	N	N	Y	excellent	CH	VD	auto	25	N	N	Y	Y	mauvais	44	H
+165	fr	Y	N	N	N	Y	N	Y	excellent	CH	VD	tp	10	N	N	N	Y		25	H
+166	fr	Y	N	N	Y	N	Y	Y	excellent	CH	VD	auto	240	N	Y	N	N	moyen	48	F
+167	fr	N	N	N	N	N	N	N		CH	VS			N	Y	Y	Y		47	F
+168	fr	N	N	N	N	N	N	N		CH	GE			N	N	Y	N	super	59	H
+169	fr	Y	N	N	Y	N	N	Y	moyen	CH	GE	tp	30	N	Y	Y	N	bien	50	H
+170	fr	N	N	N	N	N	N	N		CH	VD			N	N	Y	N	moyen	38	H
+171	fr	Y	N	N	Y	N	Y	N	excellent	CH	VD	auto	40	N	N	Y	N	bien	36	F
+172	fr	N	N	N	N	N	N	N		CH	VD			N	N	Y	N	bien	39	H
+173	fr	Y	N	Y	Y	N	Y	Y	excellent	CH	VD	auto	10	N	Y	N	N	bien	32	H
+174	fr	N	N	N	N	N	N	N		CH	FR			N	Y	Y	N	bien	36	F
+175	fr	Y	N	N	N	Y	Y	N	excellent	CH	VD	auto	30	Y	N	N	N	super	36	F
+176	fr	N	N	N	N	N	N	N		CH	VD			N	Y	N	N	bien	52	F
+177	fr	Y	N	N	Y	N	Y	Y	excellent	CH	VD	tp	30	Y	N	N	N	super	50	F
+178	fr	Y	N	N	Y	N	N	Y	bien	CH	VD	tp	15	N	N	N	Y	bien	31	H
+179	fr	Y	Y	N	Y	N	Y	Y	bien	CH	VD	auto	45	N	Y	N	Y	moyen	52	N/A
+180	fr	Y	N	N	N	Y	Y	N	bien			tp	80	N	N	N	Y	bien	25	F
+181	fr	Y	Y	N	Y	N	Y	Y	excellent	CH	VD	tp	10	N	Y	N	Y	bien	26	H
+182	fr	N	N	N	N	N	N	N		CH	VD			N	Y	N	N	bien	27	F
+183	fr	Y	N	N	Y	N	Y	N	bien	CH	LU	tp	180	N	N	Y	Y	bien	31	F
+184	fr	N	N	N	N	N	N	N		CH	VD			N	N	Y	N	bien	37	F
+185	fr	Y	N	N	Y	Y	Y	Y	bien	CH	VS	tp	10	N	Y	Y	Y	super	46	H
+186	fr	Y	N	N	Y	Y	N	Y	bien	CH	VD	auto	20	N	N	Y	N	super	42	F
+187	fr	N	N	N	N	N	N	N		CH	VD			N	N	Y	N	bien	77	F
+188	fr	N	N	N	N	N	N	N		CH	BE			Y	N	N	N		21	H
+189	fr	Y	N	N	Y	N	N	Y	excellent	CH	GE	tp	30	N	N	N	Y	bien	37	F
+190	fr	Y	N	N	Y	N	N	Y	excellent	CH	VD	auto	35	N	Y	N	N	bien	49	F
+191	fr	Y	N	N	Y	N	Y	Y	excellent	CH	AG	tp	120	N	Y	N	N	bien	75	H
+192	fr	Y	N	N	Y	N	Y	Y	excellent	CH	VD	auto	10	N	N	Y	N	super	46	F
+193	fr	Y	N	N	N	N	Y	N	bien	CH		tp	20	N	N	N	Y	bien	39	H
+194	fr	N	N	N	N	N	N	N		CH	VD			Y	N	N	N	moyen	43	H
+195	fr	Y	N	N	N	Y	Y	Y	bien	CH	VD	velo	15	N	N	N	Y	moyen	38	H
+196	fr	Y	N	N	Y	N	Y	N	excellent			auto	30	N	N	N	Y	bien	59	F
+197	fr	Y	Y	N	N	N	Y	N	excellent	CH	VD	auto	30	N	Y	N	Y	bien	55	H
+198	fr	N	N	N	N	N	N	N		CH	GE			N	N	Y	N	bien	33	H
+199	fr	N	N	N	N	N	N	N		CH	JU			N	N	N	Y	bien	34	F
+200	de	Y	N	N	Y	N	Y	N	excellent			auto	200	N	Y	N	Y	super	55	H
+201	fr	Y	N	N	Y	N	Y	Y	excellent	CH	VD	tp	30	Y	N	N	N	super	27	H
+202	fr	N	N	N	N	N	N	N		CH	FR			N	Y	N	N	bien	52	H
+203	fr	Y	N	N	N	Y	Y	Y	excellent	CH	VD	auto	10	N	Y	N	Y	mauvais	57	H
+204	fr	Y	Y	N	N	N	Y	N	excellent	CH		auto	60	N	Y	N	N	super	37	F
+205	fr	N	N	N	N	N	N	N		CH	FR			N	Y	N	N	bien	49	F
+206	fr	N	N	N	N	N	N	N		CH	GE			N	Y	N	N	bien	33	H
+207	fr	Y	Y	N	N	N	Y	N	bien	CH	VD	auto	25	N	Y	N	N	bien	64	F
+208	fr	N	N	N	N	N	N	N		CH	VD			Y	N	N	N	mauvais	29	H
+209	fr	Y	N	N	N	Y	Y	N	bien			auto	20	N	Y	N	N	bien	57	H
+210	fr	N	N	N	N	N	N	N		CH	NE			N	Y	N	N	moyen	35	F
+211	fr	Y	Y	N	N	N	Y	N	bien	CH	VD	auto	45	N	Y	N	N	bien	54	F
+212	fr	Y	N	N	Y	Y	N	Y	excellent			tp	20	N	N	N	Y	bien	64	F
+213	fr	Y	N	N	N	Y	N	Y	bien	CH	GE	tp	60	N	Y	N	Y	super	28	H
+214	fr	N	N	N	N	N	N	N		CH	VD			N	N	Y	Y	super	29	F
+215	fr	Y	N	N	Y	N	Y	N	moyen	CH	VD	auto	40	Y	N	N	N	mauvais	37	H
+216	fr	Y	N	N	Y	N	Y	Y	excellent	CH	VD	tp	50	N	Y	Y	Y	bien	29	F
+217	fr	N	N	N	N	N	N	N		CH	VD			N	Y	N	N	bien	50	F
+218	fr	N	N	N	N	N	N	N		CH				N	N	Y	N	moyen	39	F
+219	fr	Y	Y	N	Y	Y	Y	Y	excellent	CH	VD	tp	10	N	Y	Y	Y	bien	48	H
+220	fr	Y	Y	N	Y	Y	Y	Y	excellent	CH		tp	20	Y	N	N	N	moyen	30	F
+221	fr	Y	N	N	Y	N	Y	Y	bien	CH	VD	auto	15	N	N	N	Y	moyen	46	H
+222	fr	Y	N	N	N	Y	Y	N	bien	CH	VD	tp	10	N	Y	N	Y	bien	51	H
+223	fr	N	N	N	N	N	N	N		CH	JU			N	N	Y	Y	bien	32	F
+224	fr	Y	N	N	Y	N	N	Y	bien	CH	VD	tp	90	N	Y	Y	N	bien	32	H
+225	fr	Y	N	N	Y	N	N	Y	bien	CH	VD	auto		N	N	N	Y	super	48	F
+226	fr	N	N	N	N	N	N	N		CH	NE			N	Y	N	N	bien	69	H
+227	fr	N	N	N	N	N	N	N		CH	VD			N	N	Y	N	super	51	F
+228	fr	Y	N	N	Y	N	N	Y	excellent			tp	30	N	N	Y	N	bien	60	F
+229	fr	Y	N	N	N	Y	N	Y	bien	CH	VD	auto	10	Y	N	N	N	bien		H
+230	fr	N	N	N	N	N	N	N		CH	VS			N	N	Y	N	super	32	H
+231	fr	Y	N	N	N	Y	Y	N	bien	CH	VD	auto	30	N	Y	Y	N	bien	43	H
+232	fr	Y	N	N	Y	Y	Y	N	excellent	CH	VD	a_pied	30	N	Y	N	N	super	50	F
+233	fr	Y	N	N	N	Y	N	Y	excellent	CH	VD	moto	20	N	Y	Y	Y	super	26	F
+234	fr	Y	N	N	N	Y	N	Y	excellent	CH	VD	moto	20	N	Y	Y	Y	super	27	H
+235	fr	N	N	N	N	N	N	N		CH	GE			N	Y	N	N	bien	45	H
+236	fr	N	N	N	N	N	N	N		CH	FR			N	Y	Y	N	super	35	H
+237	fr	Y	N	N	Y	N	N	Y	excellent	CH	VD	tp		N	N	Y	N	super	36	H
+238	fr	Y	N	N	Y	N	Y	Y	excellent	CH	VD	tp	10	N	N	N	Y	bien	31	H
+239	fr	Y	Y	N	N	N	N	Y	excellent	CH	VD	auto	10	N	Y	Y	N	bien	48	H
+240	fr	N	N	N	N	N	N	N		CH	VD			N	Y	N	N	moyen	39	H
+241	fr	Y	N	N	N	Y	N	Y	excellent	CH	VD	tp	15	N	N	N	Y	bien	26	F
+242	fr	N	N	N	N	N	N	N		CH	GE			N	Y	N	N	bien	43	H
+243	fr	Y	N	N	Y	Y	Y	Y	bien			tp	60	N	N	N	Y	bien	33	H
+244	fr	Y	N	N	Y	N	Y	N	excellent	CH	JU	tp	15	N	Y	Y	Y	super	45	F
+245	fr	Y	N	Y	N	N	Y	Y	bien	CH	VD	tp	10	N	N	Y	Y	bien	55	H
+246	fr	N	N	N	N	N	N	N		CH	VD			N	N	Y	N	super	42	H
+247	fr	N	N	N	N	N	N	N		CH	VD			N	Y	N	N	bien	50	F
+248	fr	Y	N	N	Y	N	N	Y	bien	CH	VD	tp	40	N	Y	N	N	bien	23	F
+249	fr	N	N	N	N	N	N	N		CH	FR			N	Y	N	N	super	23	F
+250	fr	Y	N	N	Y	N	Y	N	excellent			a_pied	30	N	Y	N	N	super	37	H
+251	fr	N	N	N	N	N	N	N		CH	VS			N	Y	Y	N	super	33	F
+252	fr	Y	N	N	Y	N	N	Y	excellent			auto	15	N	N	Y	Y	bien	35	F
+253	fr	N	N	N	N	N	N	N		CH	TI			N	Y	N	N	super	48	F
+254	fr	N	N	N	N	N	N	N		CH	TI			N	N	Y	N	super	44	F
+255	fr	Y	N	N	Y	N	Y	N	excellent	CH	VD	auto	30	N	Y	Y	Y	bien	36	H
+256	fr	N	N	N	N	N	N	N		CH	VD			N	Y	N	Y	bien	40	H
+257	fr	Y	N	Y	Y	Y	N	Y	bien	CH	GE	tp	30	N	N	Y	N	bien	25	F
+258	fr	Y	N	N	Y	N	Y	Y	excellent	CH	VD	tp	25	N	Y	Y	N	super	41	F
+259	fr	Y	N	N	Y	N	Y	N	excellent	CH	VS	auto	60	N	Y	N	N	super	50	F
+260	fr	N	N	N	N	N	N	N		CH	BE			N	Y	N	N	bien	25	F
+261	fr	N	N	N	N	N	N	N		CH	NE			N	N	N	Y	bien	21	H
+262	fr	N	N	N	N	N	N	N		CH	VD			N	N	Y	N	super	32	F
+263	fr	Y	N	Y	N	N	Y	N	bien	CH	GE	auto	30	N	N	N	Y	bien	28	F
+264	fr	Y	N	Y	N	N	N	Y	bien	CH	FR	auto	60	N	N	N	Y	super	24	F
+265	fr	Y	N	N	Y	N	Y	N	mauvais	CH	VS	tp	30	N	N	N	Y	moyen	24	F
+266	fr	N	N	N	N	N	N	N		CH	VD			N	Y	N	Y	super	41	H
+267	fr	N	N	N	N	N	N	N		CH	VD			Y	N	N	N	super	53	H
+268	fr	Y	N	Y	Y	Y	Y	Y	bien	CH	VS	tp	45	N	Y	Y	Y	bien		H
+269	fr	N	N	N	N	N	N	N		CH	GE			N	N	N	Y	super	30	H
+270	fr	Y	N	N	Y	N	Y	Y	excellent	CH	VD	auto	20	N	Y	N	Y	bien	45	F
+271	fr	N	N	N	N	N	N	N		CH	TI			N	Y	N	N	bien	49	H
+272	fr	Y	N	N	Y	N	Y	N	bien			auto	240	N	Y	N	N	bien	27	H
+273	fr	N	N	N	N	N	N	N		CH	TI			N	N	Y	N	bien	45	F
+274	fr	N	N	N	N	N	N	N		CH	NE			Y	N	N	N	super	83	F
+275	fr	N	N	N	N	N	N	N		CH	JU			N	Y	Y	N	bien	36	F
+276	fr	Y	N	N	Y	Y	Y	Y	excellent			a_pied	15	N	N	N	Y	bien	48	F
+277	fr	Y	Y	N	N	N	N	Y	bien	CH	VD	tp	15	N	N	Y	N	bien	43	H
+278	fr	Y	N	N	N	Y	N	Y	excellent	CH	VD	auto		N	Y	N	N	bien	56	H
+279	fr	N	N	N	N	N	N	N		CH				N	N	Y	N	bien	36	F
+280	fr	Y	N	N	N	Y	Y	N	bien	CH	VD	tp	60	N	N	Y	Y	bien	42	F
+281	fr	Y	N	N	Y	N	N	Y	excellent	CH	GE	tp	90	N	Y	Y	Y	bien	25	F
+282	fr	Y	N	N	Y	Y	Y	Y	bien	CH	VD	tp	30	N	Y	Y	N	bien	33	F
+283	fr	Y	N	N	Y	N	Y	Y	excellent	CH	VD	tp	45	N	Y	Y	Y	bien	30	H
+284	fr	N	N	N	N	N	N	N		CH	NE			N	N	Y	N	bien	50	H
+285	fr	N	N	N	N	N	N	N		CH	VS			N	N	Y	N		35	F
+286	fr	N	N	N	N	N	N	N		CH	FR			N	N	Y	Y	bien	28	H
+287	fr	N	N	N	N	N	N	N		CH	VD			N	Y	Y	N	moyen	43	F
+288	fr	N	N	N	N	N	N	N		CH	JU			N	N	Y	N	bien	37	F
+289	fr	N	N	N	N	N	N	N		CH	VD			N	Y	N	N	bien	54	H
+290	fr	N	N	N	N	N	N	N		CH	GE			N	N	Y	N	bien	38	H
+291	fr	N	N	N	N	N	N	N		CH	BE			N	Y	N	N	bien	35	F
+292	fr	N	N	N	N	N	N	N		CH	FR			N	N	N	Y	bien	31	H
+293	fr	N	N	N	N	N	N	N		CH	FR			N	Y	N	N	mauvais	35	F
+294	fr	N	N	N	N	N	N	N		CH	NE			N	N	N	Y	moyen	58	F
+295	fr	N	N	N	N	N	N	N		CH	GE			N	Y	N	N	bien	33	H
+296	fr	N	N	N	N	N	N	N		CH	FR			Y	N	N	N		42	F
+297	fr	Y	N	N	Y	Y	Y	N	excellent			auto	1	N	Y	N	N	bien	54	H
+298	fr	N	N	N	N	N	N	N		CH	NE			N	N	Y	N	bien	46	F
+299	fr	Y	N	N	Y	N	Y	N	excellent	CH	TI	auto	180	N	N	Y	N	super	40	H
+300	fr	N	N	N	N	N	N	N		CH	VD			N	Y	N	N		56	F
+301	de	Y	N	N	N	Y	Y	N	bien	CH	ZH	auto	150	N	Y	N	Y	super	34	H
+302	fr	Y	N	N	Y	Y	Y	N	bien	CH	VD	tp	40	N	Y	Y	Y	bien	24	F
+303	fr	N	N	N	N	N	N	N		CH	VD			N	Y	N	N	super	63	H
+304	fr	Y	N	Y	Y	Y	Y	Y		CH	VD	tp	30	N	Y	Y	Y	moyen	43	H
+305	fr	Y	N	N	Y	N	N	Y	bien	CH	VD	tp	12	Y	N	N	N	bien	28	F
+306	fr	Y	N	N	Y	N	N	Y	excellent	CH	VD	a_pied	5	N	N	N	Y	bien	63	H
+307	fr	N	N	N	N	N	N	N		CH	VD			N	Y	Y	N	super	26	H
+308	fr	N	N	N	N	N	N	N		CH	VS			N	N	Y	N	bien	41	H
+309	fr	Y	N	N	Y	N	Y	Y	excellent	CH	GE	tp	60	Y	N	N	N	super	48	F
+310	fr	Y	N	N	N	Y	Y	N	excellent			auto	20	N	Y	N	N		70	N/A
+311	fr	Y	N	N	Y	N	Y	Y	excellent	CH	VD	auto	20	N	Y	N	Y	bien	48	F
+312	fr	Y	N	N	N	Y	Y	Y	excellent	CH	JU	tp	140	N	N	Y	N	super	34	F
+313	fr	Y	Y	N	N	Y	Y	Y	excellent	CH	VD	a_pied	15	N	Y	N	N	super	49	F
+314	fr	Y	N	N	N	N	Y	Y	bien			tp	30	N	Y	N	N		41	F
+315	fr	Y	N	N	N	Y	Y	Y	bien	CH	VS	tp	45	N	N	Y	N	moyen	49	H
+316	fr	Y	Y	N	Y	N	Y	N	excellent	CH		tp	20	N	Y	Y	Y	bien	28	H
+317	fr	N	N	N	N	N	N	N		CH	VD			N	N	Y	N	moyen	50	H
+318	fr	N	N	N	N	N	N	N		CH	NE			N	Y	N	N	super	24	F
+319	fr	N	N	N	N	N	N	N		CH	GE			N	N	Y	Y	bien	36	H
+320	fr	Y	N	N	N	Y	Y	Y	bien	CH	VD	a_pied	5	Y	N	N	N	bien	49	F
+321	fr	Y	N	N	Y	Y	Y	N	bien	CH	VD	auto	30	N	N	Y	Y	bien	29	F
+322	fr	Y	N	N	Y	N	Y	N	bien	CH	VD	tp	20	N	N	Y	N	bien	37	F
+323	fr	Y	N	Y	N	Y	N	Y	excellent	CH	VD	auto	20	N	N	N	Y	bien	22	F
+324	fr	N	N	N	N	N	N	N		CH				Y	N	N	N	bien	41	N/A
+325	fr	N	N	N	N	N	N	N		CH	VS			N	Y	N	Y	bien	66	H
+326	fr	N	N	N	N	N	N	N		CH	VD			N	N	N	Y		49	H
+327	fr	N	N	N	N	N	N	N		CH	GE			N	N	Y	N	bien	33	F
+328	fr	N	N	N	N	N	N	N		CH	VD			N	Y	N	N	bien	61	F
+329	fr	N	N	N	N	N	N	N		CH	VS			N	N	Y	N	bien	39	F
+330	fr	Y	N	N	Y	N	Y	Y	excellent	CH	VD	tp	60	N	Y	N	N	super		F
+331	fr	Y	Y	N	Y	N	N	Y	excellent	CH	VD	tp	40	N	N	N	Y	super	25	H
+332	fr	Y	N	N	N	Y	N	Y	excellent	CH	VD	auto	5	N	N	Y	Y	bien	23	H
+333	fr	N	N	N	N	N	N	N		CH	VD			N	N	N	Y	bien	67	H
+334	de	Y	N	N	Y	N	Y	Y	excellent	CH	ZH	tp	95	N	N	N	Y	super	66	H
+335	fr	Y	N	N	N	Y	Y	Y	bien	CH	GE	auto		N	Y	Y	Y	bien		N/A
+336	de	Y	N	N	Y	N	Y	Y	excellent			tp	150	N	Y	N	N	bien	50	H
+337	de	Y	N	N	Y	N	Y	Y	bien	CH	AG	auto	120	N	Y	N	N	bien	71	F
+338	fr	Y	N	N	Y	N	Y	Y	excellent	CH	GE	tp	60	N	Y	N	N	super	30	F
+339	de	Y	N	N	N	Y	Y	N	excellent	CH	LU	auto	150	N	Y	N	Y	bien	35	H
+340	de	Y	Y	N	Y	N	Y	N	excellent	CH	ZH	tp	4	N	N	Y	N	super	40	H
+341	de	Y	N	N	Y	N	N	Y	mauvais			autre	150	N	Y	N	N	moyen	41	F
+342	de	Y	N	N	Y	N	N	Y	excellent			auto	90	N	Y	N	N	super	53	F
+343	fr	Y	N	N	N	Y	Y	Y	excellent			auto	60	N	Y	N	N	bien	43	H
+344	de	Y	N	N	Y	N	Y	Y	excellent	CH	ZH	auto	150	N	Y	Y	Y	super	65	H
+345	de	Y	N	N	N	Y	Y	Y	bien	CH		tp	150	N	Y	N	Y	bien	31	F
+346	de	Y	N	N	Y	N	Y	Y	excellent	CH	ZH	tp	160	N	Y	N	Y	bien	36	F
+347	de	Y	Y	N	Y	N	Y	Y	bien	CH	ZG	tp	180	N	Y	N	Y	super	54	F
+348	de	Y	N	N	N	Y	Y	Y	excellent	CH	ZH	tp	120	N	N	N	Y	bien	29	H
