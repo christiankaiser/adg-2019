@@ -2,19 +2,16 @@
 
 Pour ce cours, nous utilisons les logiciels suivants:
 
-- Excel ou OpenOffice Calc
-- Un éditeur de texte, p.ex. Notebook++ (Windows) ou TextWrangler resp. BBEdit (macOS)
+- Excel ou LibreOffice Calc
+- Un éditeur de texte, p.ex. Notebook++ (Windows), TextWrangler resp. BBEdit (macOS), Sublime Text (Windows, macOS, Linux)
 - [R](https://www.r-project.org/) et [RStudio Desktop](https://www.rstudio.com/products/rstudio/)
-- Jupyter Notebooks (avec [Nteract](https://nteract.io/) ou dans le navigateur Web)
+- Jupyter Notebooks avec un kernel R
 
-En principe, pour suivre le cours, vous n'avez pas besoin d'installer quoi que ce soit. Dans ce cas, vous avez 2 possibilités:
+Dans le cadre du cours, nous pourrons travailler avec les Jupyter Notebooks déjà installés sur le serveur (passer par l'URL [https://igd.unil.ch/cours/adg](https://igd.unil.ch/cours/adg) qui redirige toujours au bon endroit, car l'URL directe du serveur peut changer). Donc au final, nous aurons besoin d'un tableur (p.ex. LibreOffice Calc), d'un éditeur de texte correct, et un navigateur Web correct.
 
-- utiliser les ordinateurs dans les salles Amphipôle 140 et 146, où tout est déjà installé.
-- utiliser les Juypter Notebooks sur [Azure](https://notebooks.azure.com/).
+Ces logiciels sont disponibles sur n'importe quel ordinateur UNIL, dont ceux dans les salles Amphipôle 140 et 146, et à Géopolis.
 
-Si vous préférez tout de même d'installer les logiciels sur votre ordinateurs, vous pouvez simplement suivre les instructions ci-dessous, selon votre système d'exploitation.
-
-Si vous appartenez à la catégorie de personnes qui refusent d'installer Jupyter Notebooks pour des raisons de santé (votre propre santé ou celle des autres), vous pouvez aussi utiliser les notebooks dans RStudio et ne pas installer Jupyter et compagnie. Les points 1 et 2 ci-dessous restent identiques.
+Vous pouvez toutefois toujours décider d'installer également R et les Jupyter Notebooks sur votre ordinateur. Tout est open-source, et il suffit de suivre les instructions ci-dessous, selon votre système d'exploitation. Par contre, ceci est un peu plus impliqué que juste cliquer sur deux ou trois boutons. Veuillez donc lire attentivement la notice d'emballage (ci-dessous) ou demander à votre prestataire de santé (en l'occurrence un assistant AdG).
 
 ## MacOS
 
@@ -47,11 +44,6 @@ Sur https://irkernel.github.io/ suivre les instructions sous l’onglet *« ins
   - Idem avec la deuxième ligne *« devtools::… »*. Si l’ordinateur le demande, installez Xcode puis relancez la ligne *« devtools::… »*.
   - Ouvrez **Terminal**. Tapez R puis enter. Ensuite copier-coller la ligne *« IRkernel::… »*.
   - Vous devriez obtenir *« [InstallKernelSpec] Installed kernelspec ir in /Users/yourusername/Library/Jupyter/kernels/ir »* si l’installation a réussi.
-
-
-**5. Nteract**
-
-Sur https://nteract.io sélectionnez le lien correspondant à votre système d’exploitation, (téléchargez soit le fichier *« installer »*, soit le *« zip »*).
 
 
 ## Windows
@@ -115,7 +107,7 @@ Ensuite, il suffit de lancer l'installeur et de laisser les options par défaut.
 
 **3. Jupyter Notebooks**
 
-Pour pouvoir utiliser les notebooks, il faut télécharger [Anaconda](https://www.anaconda.com/download/). Préférez la version Python 3.6.
+Pour pouvoir utiliser les notebooks, il faut télécharger [Anaconda](https://www.anaconda.com/download/). Préférez la version Python 3.
 
 Lors de l'installation, une option **qu'il faut cocher** est celle dans les _Advanced Options_ : _Add Anaconda to my Path environment variable_. Cela nous évite de devoir répéter la même procédure que pour _R_.
 
@@ -153,10 +145,6 @@ Les instructions d'installation ci-dessous proviennent du [site de IRkernel](htt
 4. Finalement exécutez la commande suivante: **`IRkernel::installspec()`** . Si ça a fonctionné, il devrait y avoir un message du type _Installed kernelspec ir in..._. Dans ce cas, passez à l'étape suivante.
 
 
-**5. Nteract**
-
-Sur le site d'[Nteract](https://nteract.io), téléchargez l'installeur et ensuite éxécutez le.
-
 **6. Git**
 
 Ici [Git est le système de gestion de version](https://git-scm.com/), à ne pas confondre avec GitHub, hébergeur de projets.
@@ -178,6 +166,6 @@ Finalement, vous pouvez décocher les options proposées avant d'appuyer sur ter
 
 #### Conclusion
 
-Si tout s'est bien passé, ta machine devrait être prête à te permettre d'utiliser les notebooks, que se soit dans jupyter ou avec Nteract.
+Si tout s'est bien passé, ta machine devrait être prête à te permettre d'utiliser les Jupyter notebooks.
 
 Pour la suite, n'oublie pas de jeter un oeil à la description de l'environnement de travail pour éclaircir tout ce que tu viens d'installer et surtout **au tutoriel terminal_inviteCmd** pour te faire la main sur l'utilisation de la ligne de commande et des notebooks et préparer un environnement de travail efficace.

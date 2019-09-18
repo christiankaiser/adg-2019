@@ -7,9 +7,9 @@ Vous connaissez déjà (par la pratique, de nom, etc.) quelques-uns de ces outil
 Pour ce cours, nous utilisons notamment les logiciels suivants:
 
 - Excel ou OpenOffice Calc
-- Un éditeur de texte, p.ex. Notebook++ (Windows), TextWrangler resp. BBEdit (macOS) ou Atom
+- Un éditeur de texte, p.ex. Notebook++ (Windows), TextWrangler resp. BBEdit (macOS), Atom (Windows, macOS, Linux) ou Sublime Text (Windows, macOS, Linux)
 - [R](https://www.r-project.org/) et [RStudio Desktop](https://www.rstudio.com/products/rstudio/)
-- Jupyter Notebooks (avec [Nteract](https://nteract.io/) ou dans le navigateur Web)
+- Jupyter Notebooks
 
 Dans ce document, vous sont également présentés brièvement deux plateformes auxquelles nous allons recourir: _Github_ et _Slack_. Il est utile d'avoir une vue globale de ces dernières, afin d'en comprendre l'usage/utilité.
 
@@ -89,11 +89,15 @@ Les _Notebooks_ peuvent être vus de différentes façons : via [_nbviewer_](htt
 + [Azure](https://notebooks.azure.com/) pour une édition en ligne
 + Installer [_Anaconda_](http://jupyter.org/install.html) (qui installe _Python_ et _Jupyter Notebook_), le lancer depuis _Anaconda_ et l'éditer dans le navigateur.
 
+Dans le cadre de ce cours, nous allons utiliser un serveur de l'UNIL que chaque étudiant peut utiliser librement durant la période de cours. Le serveur est accessible à travers l'URL [https://igd.unil.ch/cours/adg](https://igd.unil.ch/cours/adg). Pour le login, il suffit d'utiliser le nom d'utiliser que vous aurez reçu soit par e-mail soit par l'enseignant ou un des assistants. Si vous vous connectez pour la première fois, vous définissez directement votre mot de passe lors du login.
+
+
 ## Notebooks R
 
 Un peu moins connu que les Jupyter Notebooks, RStudio offre également la possibilité de créer des notebooks. Les fonctionnalités sont très similaires, le principe de fonctionnement aussi. L'installation est par contre plus simple car complètement intégré dans RStudio. Cependant Jupyter est un peu plus généraliste et permet d'intégrer d'autres langages et réjouis une très bonne adaptation dans le domaine de l'analyse de données.
 
-Quel environnement choisir? Dans le cadre de ce cours, c'est un peu égal. Les deux options sont acceptées, et les fonctionnalités les mêmes à notre niveau. Si vous êtes partants pour investir un peu de temps dans l'installation de Juypter, et que vous envie d'apprendre la solution la plus répondu, les notebooks Jupyter sont probablement à conseiller. Pour les minimalistes, anti-statisticiens et les je-fais-planter-tous-les-ordi-artistes, ce sera probablement plus simple d'opter pour les notebooks dans RStudio.
+Quel environnement choisir? Dans le cadre de ce cours, nous allons utiliser les Jupyter Notebooks. Mais sachez qu'un environnement similaire existe dans RStudio, et les fonctionnalités sont à peu près les mêmes à notre niveau.
+
 
 ## Pourquoi l'open-source? Quelles alternatives?
 
