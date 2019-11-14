@@ -87,7 +87,7 @@ Semaine  | Date  | Thématique du cours | Documents de cours | Salle
 6        | 24.10. | ACP / Analyse factorielle | [30-acp](30-acp)
 7        | 31.10.  | Clustering | [40-clustering](40-clustering) |
 8        | 7.11.  | Pas de cours (inter-semestre)
-9        | 14.11. | Documenter et commenter une analyse statistique
+9        | 14.11. | Documenter et commenter une analyse statistique | [41-commentaire](41-commentaire)
 10       | 21.11. | Réseaux de neurones pour la régression et la classification | [60-ann](60-ann)
 11       | 28.11. | GWR | [50-gwr](50-gwr) |
 12       | 5.12.  | _Travail personnel en salle informatique_
