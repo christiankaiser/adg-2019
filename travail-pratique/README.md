@@ -47,4 +47,4 @@ Si vous avez tous les 4 exercices, et vous remplissez les critères ci-dessus, v
 
 La soumission se fait par e-mail à l'adresse [gse.cartosig+adg18@gmail.com](mailto:gse.cartosig+adg18@gmail.com). **Merci d'utiliser uniquement votre adresse UNIL pour l'envoi de la soumission!**
 
-**Le délai de rendu est fixé au 20.12.2017.** À partir du 21.01.2018, une pénalité de retard d'une demie note par jour est appliquée.
+**Le délai de rendu est fixé au 19.12.2019.** À partir du 21.01.2020, une pénalité de retard d'une demie note par jour est appliquée.
